@@ -12,9 +12,9 @@ def get_value():
         return value
 
 def get_operation():
-    oper = input('Введите оператор: ')
-    return oper
+    operation = input('Введите оператор: ')
+    return operation
 
-def get_result(res):
-    print(f'Результат: {res}')
+def get_result(result):
+    print(f'Результат: {result}')
 
