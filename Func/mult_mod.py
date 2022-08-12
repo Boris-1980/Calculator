@@ -2,13 +2,11 @@ x = ()
 y = ()
 
 def init(a,b):
-
     global x
     global y
 
     x = a
     y = b
 
-def mult():
+def do_it():
     return x * y
-    

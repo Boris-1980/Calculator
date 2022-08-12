@@ -7,7 +7,8 @@ def init(a,b):
 
     x = a
     y = b
-def sum():
+    
+def do_it():
     return x + y
 
 

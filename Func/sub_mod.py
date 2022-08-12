@@ -8,5 +8,5 @@ def init(a,b):
     x = a
     y = b
 
-def sub():
+def do_it():
     return x - y 
